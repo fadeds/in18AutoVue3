@@ -17,7 +17,12 @@
     "i18n": "npm run extract-zh && npm run translate"
   },
   "dependencies": {
-    "axios": "^1.9.0",
+    "@alova/adapter-axios": "^2.0.16",
+    "@vueuse/core": "^14.0.0",
+    "alova": "^3.3.4",
+    "axios": "^1.12.2",
+    "element-plus": "^2.11.5",
+    "fabric": "^5.3.0",
     "pinia": "^3.0.1",
     "vue": "^3.5.13",
     "vue-i18n": "^11.1.3",
